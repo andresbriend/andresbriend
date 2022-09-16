@@ -7,7 +7,6 @@ import java.util.ArrayList;
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
-todo esta mal basicamente
 /**
  * Unit test for simple App.
  */
